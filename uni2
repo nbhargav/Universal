@@ -1,0 +1,17 @@
+1.1. 1969
+
+All modern operating systems have their roots in 1969 when Dennis Ritchie and Ken Thompson developed the C language and the Unix operating system at AT&T Bell Labs.
+
+They shared their source code (yes, there was open source back in the Seventies) with the rest of the world, including the hippies in Berkeley California. By 1975, when AT&T started selling Unix commercially, about half of the source code was written by others. 
+
+The hippies were not happy that a commercial company sold software that they had written; the resulting (legal) battle ended in there being two versions of Unix: the official AT&T Unix, and the
+free BSD Unix.
+
+Development of BSD descendants like FreeBSD, OpenBSD, NetBSD, DragonFly BSD and
+PC-BSD is still active today.
+
+https://en.wikipedia.org/wiki/Dennis_Ritchie
+https://en.wikipedia.org/wiki/Ken_Thompson
+https://en.wikipedia.org/wiki/BSD
+https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems
+
